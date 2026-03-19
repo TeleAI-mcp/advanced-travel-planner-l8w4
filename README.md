@@ -1,2 +1,3 @@
-# advanced-travel-planner-l8w4
+# Advanced Travel Planner L8W4
+
 A travel planning application for modern development workflows.
